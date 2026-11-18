@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "phase": "validation",
+  "kernel_started": true,
+  "fresh_kernel": true,
+  "all_cells": true,
+  "python": "D:\\Master\\Ejercicios\\ML\\.venv\\Scripts\\python.exe",
+  "training_mode": "verified_cache",
+  "executed_utc": "2026-11-14T10:17:09.345725+00:00",
+  "seconds": 261.2350000000006,
+  "execution_counts": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "full_training_reference": {
+    "executed_utc": "2026-11-08T08:42:25.288331+00:00",
+    "seconds": 1183.3589999999967,
+    "notebook_sha256": "22162f1e34d2459d8df0be1a5191817e0a07ae5e8731b1677b57b8f9535adbdc",
+    "calibration_fingerprint": "a2a97d2842fc1326c01dd976bef58aa5285faadb9788b562bee9b00db98053bd",
+    "resumed_interrupted": true,
+    "scope": "Ejecuci\u00f3n hist\u00f3rica desde cero anterior a esta revisi\u00f3n de presentaci\u00f3n; no es una nueva ejecuci\u00f3n del cuaderno actual"
+  },
+  "progress_cleanup": {
+    "removed_progress_lines": 0,
+    "scientific_displays_preserved": true,
+    "technical_log_in_delivery": false,
+    "scope": "Se archiva \u00fanicamente progreso conocido; el registro externo no es necesario para ejecutar la entrega"
+  },
+  "notebook_sha256": "5af45dfdd2490f8cb30202b3673c771841c191d65f8b3dbf114c12739505a2ac",
+  "calibration_mode": "verified_cache",
+  "calibration_fingerprint": "a2a97d2842fc1326c01dd976bef58aa5285faadb9788b562bee9b00db98053bd",
+  "calibration_report_validated": true
+}

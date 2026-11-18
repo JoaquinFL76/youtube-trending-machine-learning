@@ -1,0 +1,98 @@
+{
+  "category": {
+    "model": "svm",
+    "params": {
+      "estimator__C": 1.0,
+      "estimator__max_iter": 30000,
+      "estimator__class_weight": "balanced",
+      "features__text__max_features": 8000,
+      "features__text__min_df": 2,
+      "features__text__ngram_range": [
+        1,
+        1
+      ],
+      "features__text__sublinear_tf": true
+    },
+    "threshold": null
+  },
+  "comments_disabled": {
+    "model": "svm",
+    "params": {
+      "estimator__C": 3.0,
+      "estimator__max_iter": 30000,
+      "estimator__class_weight": null,
+      "features__text__max_features": 16000,
+      "features__text__min_df": 2,
+      "features__text__ngram_range": [
+        1,
+        1
+      ],
+      "features__text__sublinear_tf": true
+    },
+    "threshold": -0.455780486242063
+  },
+  "ratings_disabled": {
+    "model": "logistic",
+    "params": {
+      "estimator__C": 1.0,
+      "features__text__ngram_range": [
+        1,
+        1
+      ],
+      "estimator__max_iter": 3000,
+      "estimator__class_weight": "balanced",
+      "features__text__max_features": 8000,
+      "features__text__min_df": 2,
+      "features__text__sublinear_tf": true
+    },
+    "threshold": 0.579414198485685
+  },
+  "likes": {
+    "model": "svr_log_target",
+    "params": {
+      "estimator__regressor__C": 0.1,
+      "estimator__regressor__max_iter": 60000,
+      "features__text__max_features": 16000,
+      "features__text__min_df": 4,
+      "features__text__ngram_range": [
+        1,
+        2
+      ],
+      "features__text__sublinear_tf": true
+    },
+    "threshold": null
+  },
+  "ratio": {
+    "model": "ridge_log_target",
+    "params": {
+      "estimator__regressor__alpha": 1.0,
+      "features__text__ngram_range": [
+        1,
+        1
+      ],
+      "estimator__regressor__max_iter": null,
+      "features__text__max_features": 8000,
+      "features__text__min_df": 2,
+      "features__text__sublinear_tf": true
+    },
+    "threshold": null
+  },
+  "cluster": {
+    "model": "kmeans",
+    "k": 2,
+    "params": {
+      "dimensions": 15,
+      "seed": 42
+    }
+  },
+  "recommend": {
+    "model": "char_tfidf",
+    "params": {
+      "analyzer": "char_wb",
+      "ngram_range": [
+        3,
+        5
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Entorno reproducible de la entrega
+-r requirements-lock.txt

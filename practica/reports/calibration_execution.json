@@ -1,0 +1,47 @@
+{
+  "fingerprint": "a2a97d2842fc1326c01dd976bef58aa5285faadb9788b562bee9b00db98053bd",
+  "base_fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+  "complete": true,
+  "protocol": "Hiperparámetros seleccionados en búsqueda pequeña; umbral F2 OOF con tres folds agrupados en pool final; test sólo evaluación",
+  "limitation": "OOF reutiliza selección previa de hiperparámetros; no es CV anidada. El rediseño es posterior a evaluación interna y necesita validación externa.",
+  "started_utc": "2026-11-08T08:36:59.088240+00:00",
+  "fresh_oof_training": true,
+  "tasks": {
+    "comments_disabled": {
+      "threshold": -0.455780486242063,
+      "oof_rows": 29926,
+      "oof_average_precision": 0.3930052024032443,
+      "oof_f2": 0.4200504060487259,
+      "fold_train_rows": [
+        19950,
+        19950,
+        19952
+      ],
+      "fold_validation_rows": [
+        9976,
+        9976,
+        9974
+      ],
+      "warnings": []
+    },
+    "ratings_disabled": {
+      "threshold": 0.579414198485685,
+      "oof_rows": 29926,
+      "oof_average_precision": 0.19142825169691252,
+      "oof_f2": 0.34343131373725255,
+      "fold_train_rows": [
+        19950,
+        19952,
+        19950
+      ],
+      "fold_validation_rows": [
+        9976,
+        9974,
+        9976
+      ],
+      "warnings": []
+    }
+  },
+  "seconds": 71.0619999999908,
+  "finished_utc": "2026-11-08T08:38:03.040110+00:00"
+}

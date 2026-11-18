@@ -1,0 +1,1887 @@
+{
+  "scope": "Avisos agregados de todas las configuraciones de cada búsqueda; pueden corresponder a candidatos descartados. final_fit separa los avisos del ganador al ajustarse con la receta congelada.",
+  "searches": [
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "baseline_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.026792908944399677,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "knn_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.19312718301829176,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "tree_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.08288413970498794,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "logistic",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 3000
+          },
+          "best_cv_score": 0.4099673502912367,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 3000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "svm",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.4220820711252833,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "svm_rbf",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.20072739731047262,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "naive_bayes",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.13427103754345873,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "sgd",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 1000
+          },
+          "best_cv_score": 0.3274108231678092,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 1000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "forest_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.3299983508512285,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "mlp_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 240
+          },
+          "best_cv_score": 0.25886754158039577,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__max_iter": 480
+          },
+          "best_cv_score": 0.24831395976398726,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (480) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (480) reached and the optimization hasn't converged yet."
+          ]
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 480
+      },
+      "warnings": [
+        "Stochastic Optimizer: Maximum iterations (480) reached and the optimization hasn't converged yet."
+      ],
+      "remaining_convergence_warnings": [
+        "Stochastic Optimizer: Maximum iterations (480) reached and the optimization hasn't converged yet."
+      ],
+      "status": "warnings_remaining",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "lda_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.2050696006133905,
+          "warnings": [
+            "Only one sample available. You may want to reshape your data array"
+          ],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [
+        "Only one sample available. You may want to reshape your data array"
+      ],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "familias",
+      "model": "xgb_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.3259955996796646,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "category",
+      "stage": "refinamiento",
+      "model": "svm",
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.45566025088970924,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "baseline_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4931915031567909,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "knn_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.499659919923515,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "tree_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5223550850018294,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "logistic",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 3000
+          },
+          "best_cv_score": 0.5705170124175646,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 3000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "svm",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.5767328219194243,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "svm_rbf",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.5041642390115436,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "naive_bayes",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4931915031567909,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "sgd",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 1000
+          },
+          "best_cv_score": 0.5541096089540366,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 1000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "forest_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5418580701024838,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "mlp_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 240
+          },
+          "best_cv_score": 0.504060008625181,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__max_iter": 480
+          },
+          "best_cv_score": 0.504060008625181,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 480
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "lda_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4983571031702536,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "familias",
+      "model": "xgb_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5220167517960355,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "comments_disabled",
+      "stage": "refinamiento",
+      "model": "svm",
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.5948734678757808,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "baseline_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4961928927470247,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "knn_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5111175727166516,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "tree_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4451628782674268,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "logistic",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 3000
+          },
+          "best_cv_score": 0.5520740802072149,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 3000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "svm",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.5380072284418246,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "svm_rbf",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": 0.5267272921606967,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "naive_bayes",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4961928927470247,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "sgd",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 1000
+          },
+          "best_cv_score": 0.5167705815965601,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 1000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "forest_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.4942732793096501,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "mlp_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 240
+          },
+          "best_cv_score": 0.5252613468354098,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__max_iter": 480
+          },
+          "best_cv_score": 0.5227981317348197,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 480
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "lda_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5125617910056169,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "familias",
+      "model": "xgb_classifier",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": 0.5069875706705614,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratings_disabled",
+      "stage": "refinamiento",
+      "model": "logistic",
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 3000
+          },
+          "best_cv_score": 0.5554974834102671,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 3000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "baseline_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -25149.587237615448,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "knn_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -20526.044313997514,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "knn_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -19960.119082182817,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "tree_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -20937.4338644735,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "tree_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -25210.075867505715,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "ridge",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": null
+          },
+          "best_cv_score": -25273.897399534675,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": null
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "ridge_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": null
+          },
+          "best_cv_score": -11844.752130316765,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": null
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "svr",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": -23149.007600968278,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "svr_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 30000
+          },
+          "best_cv_score": -9666.639035629627,
+          "warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ],
+          "convergence_warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 60000
+          },
+          "best_cv_score": -9666.639035629627,
+          "warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ],
+          "convergence_warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ]
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 60000
+      },
+      "warnings": [
+        "Liblinear failed to converge, increase the number of iterations."
+      ],
+      "remaining_convergence_warnings": [
+        "Liblinear failed to converge, increase the number of iterations."
+      ],
+      "status": "warnings_remaining",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "svr_rbf",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": -25006.80709985411,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "svr_rbf_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 30000
+          },
+          "best_cv_score": -11535.21569262137,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "forest_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -21017.505870084566,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "forest_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -23274.021135501185,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "extra_trees",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -23817.908899432194,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "extra_trees_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -24033.98314688838,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "mlp_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 240
+          },
+          "best_cv_score": -26088.04729984564,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 240
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "mlp_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 240
+          },
+          "best_cv_score": -18156.807961642902,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 480
+          },
+          "best_cv_score": -18230.115850192913,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 480
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "xgb_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -13086.981317979764,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "familias",
+      "model": "xgb_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -10630.173076811048,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "likes",
+      "stage": "refinamiento",
+      "model": "svr_log_target",
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 60000
+          },
+          "best_cv_score": -9178.76253055598,
+          "warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ],
+          "convergence_warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ]
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 60000
+      },
+      "warnings": [
+        "Liblinear failed to converge, increase the number of iterations."
+      ],
+      "remaining_convergence_warnings": [
+        "Liblinear failed to converge, increase the number of iterations."
+      ],
+      "status": "warnings_remaining",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "baseline_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -29.60336369613401,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "knn_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -34.98189869767313,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "knn_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -31.119010483077613,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "tree_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -34.933973646325136,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "tree_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -29.76345418919888,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "ridge",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": null
+          },
+          "best_cv_score": -31.31370107391938,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": null
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "ridge_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": null
+          },
+          "best_cv_score": -26.456790074894556,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": null
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "svr",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": -27.506171227709046,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "svr_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 30000
+          },
+          "best_cv_score": -27.029701490880637,
+          "warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ],
+          "convergence_warnings": [
+            "Liblinear failed to converge, increase the number of iterations."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 60000
+          },
+          "best_cv_score": -27.029701490880637,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 60000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "svr_rbf",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 30000
+          },
+          "best_cv_score": -27.668232981410796,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "svr_rbf_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 30000
+          },
+          "best_cv_score": -28.139625069236047,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 30000
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "forest_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -31.89859530296134,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "forest_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -27.60056649439714,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "extra_trees",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -31.37496861981319,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "extra_trees_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -28.185470026681582,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "mlp_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__max_iter": 240
+          },
+          "best_cv_score": -31.32935003652803,
+          "warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ],
+          "convergence_warnings": [
+            "Stochastic Optimizer: Maximum iterations (240) reached and the optimization hasn't converged yet."
+          ]
+        },
+        {
+          "attempt": 2,
+          "iteration_parameters": {
+            "estimator__max_iter": 480
+          },
+          "best_cv_score": -31.39237606118395,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__max_iter": 480
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "mlp_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": 240
+          },
+          "best_cv_score": -29.03217698961561,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": 240
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "xgb_regressor",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -31.732723534288258,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "familias",
+      "model": "xgb_regressor_log_target",
+      "error": null,
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {},
+          "best_cv_score": -27.179363975259193,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {},
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    },
+    {
+      "task": "ratio",
+      "stage": "refinamiento",
+      "model": "ridge_log_target",
+      "attempts": [
+        {
+          "attempt": 1,
+          "iteration_parameters": {
+            "estimator__regressor__max_iter": null
+          },
+          "best_cv_score": -26.456790074894556,
+          "warnings": [],
+          "convergence_warnings": []
+        }
+      ],
+      "iteration_parameters": {
+        "estimator__regressor__max_iter": null
+      },
+      "warnings": [],
+      "remaining_convergence_warnings": [],
+      "status": "no_convergence_warning",
+      "scope": "CV agrupada idéntica; como máximo un reintento; ausencia de aviso no prueba óptimo global"
+    }
+  ],
+  "final_fit": {
+    "category": {
+      "rows": 29926,
+      "family": "svm",
+      "threshold": null,
+      "warnings": []
+    },
+    "comments_disabled": {
+      "rows": 29926,
+      "family": "svm",
+      "threshold": -0.455780486242063,
+      "warnings": []
+    },
+    "ratings_disabled": {
+      "rows": 29926,
+      "family": "logistic",
+      "threshold": 0.579414198485685,
+      "warnings": []
+    },
+    "likes": {
+      "rows": 29926,
+      "family": "svr_log_target",
+      "threshold": null,
+      "warnings": []
+    },
+    "ratio": {
+      "rows": 29232,
+      "family": "ridge_log_target",
+      "threshold": null,
+      "warnings": []
+    },
+    "cluster": {
+      "rows": 6000,
+      "family": "kmeans",
+      "threshold": null,
+      "warnings": []
+    },
+    "recommend": {
+      "rows": 10000,
+      "family": "char_tfidf",
+      "threshold": null,
+      "warnings": []
+    }
+  }
+}

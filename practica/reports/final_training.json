@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "mode": "fixed_winners_only",
+  "fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+  "models": {
+    "category": {
+      "rows": 29926,
+      "family": "svm",
+      "threshold": null,
+      "warnings": []
+    },
+    "comments_disabled": {
+      "rows": 29926,
+      "family": "svm",
+      "threshold": -0.455780486242063,
+      "warnings": []
+    },
+    "ratings_disabled": {
+      "rows": 29926,
+      "family": "logistic",
+      "threshold": 0.579414198485685,
+      "warnings": []
+    },
+    "likes": {
+      "rows": 29926,
+      "family": "svr_log_target",
+      "threshold": null,
+      "warnings": []
+    },
+    "ratio": {
+      "rows": 29232,
+      "family": "ridge_log_target",
+      "threshold": null,
+      "warnings": []
+    },
+    "cluster": {
+      "rows": 6000,
+      "family": "kmeans",
+      "threshold": null,
+      "warnings": []
+    },
+    "recommend": {
+      "rows": 10000,
+      "family": "char_tfidf",
+      "threshold": null,
+      "warnings": []
+    }
+  }
+}

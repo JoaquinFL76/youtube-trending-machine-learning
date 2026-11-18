@@ -1,0 +1,25 @@
+{
+  "format": 2,
+  "task": "ratio",
+  "class": "RidgeRatioRegressor",
+  "created_utc": "2026-11-08T08:39:37.972276+00:00",
+  "python": "3.12.14",
+  "sklearn": "1.9.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "schema": [
+    "title",
+    "publish_time",
+    "tags",
+    "views",
+    "comment_count",
+    "description",
+    "region"
+  ],
+  "training": {
+    "fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+    "selected": "ridge_log_target",
+    "fit_rows": 29232,
+    "mode": "fixed_winners_only"
+  }
+}

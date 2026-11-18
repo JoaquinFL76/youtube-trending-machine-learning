@@ -1,0 +1,12 @@
+{
+  "seed": 1042,
+  "limits_train_calibration_test": [
+    12000,
+    4000,
+    6000
+  ],
+  "created_utc": "2026-11-12T09:08:24.557209+00:00",
+  "base_fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+  "selection": "Recetas congeladas; umbral F2 sólo en calibración; prueba descriptiva sin selección",
+  "scope": "Validación adicional interna por componentes vídeo/channel_title, no externa ni anidada"
+}

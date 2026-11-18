@@ -1,0 +1,15 @@
+bloque,estado,evidencia o justificación
+Regresión lineal y logística,Probado,"Ridge, LogisticRegression y variantes log1p; regularización por CV; evaluation.json: logistic, ridge"
+Perceptrón multicapa,Probado,"MLPClassifier/Regressor con SVD y escalado latente dentro de CV; iteraciones y avisos en convergence_review.json; evaluation.json: mlp_classifier, mlp_regressor"
+Árboles y Random Forest,Probado,"Clasificación/regresión; mismos folds y referencias; evaluation.json: forest_classifier, forest_regressor, tree_classifier, tree_regressor"
+KNN y distancias,Probado,"Vecinos con coseno y recuperación de contenido; evaluation.json: knn_classifier, knn_regressor"
+SVM lineal y kernel RBF,Probado,"LinearSVC/LinearSVR frente a SVC/SVR RBF; SVD y escalado latente dentro de cada fold; evaluation.json: svm, svm_rbf, svr, svr_rbf"
+PCA y t-SNE,Probado,"Visualización descriptiva; no validan por sí mismas los clusters; cuaderno, sección 8: PCA y t-SNE; gráfico regenerable"
+TruncatedSVD,Probado,Texto disperso; dimensiones comparadas y preprocesamiento persistido; evaluation.json/clustering: 86 resultados con dimensiones y silhouette
+LDA supervisado,Probado,Clasificación con SVD de 30/60 dimensiones dentro de cada fold y covarianza con/sin regularización; evaluation.json: lda_classifier
+"KMeans, MiniBatch, Mean Shift y GMM",Probado,"Mismos datos e índices; bandwidth/componentes/covarianza; selección sin categorías; evaluation.json: gmm, kmeans, meanshift, minibatch"
+DBSCAN y aglomerativo,Probado como exploración,"Cobertura y ARI/NMI; ajuste transductivo separado de los candidatos inductivos; evaluation.json: agglomerative, dbscan"
+Redes bayesianas,No incorporado como modelo general,MultinomialNB es una referencia restringida; un DAG requeriría justificar estructura y discretización dentro de CV
+HMM,No incorporado,Exigiría formular estados/secuencias y validación temporal; objetivos actuales contemporáneos
+XGBoost,Probado,"Árboles por gradiente en CPU para clasificación y regresión con TF-IDF y metadatos. Regresión directa y log1p; evaluation.json: xgb_classifier, xgb_regressor, xgb_regressor_log_target"
+"IA generativa, RAG y agentes",Contenido optativo no incorporado,No necesario para los objetivos del enunciado; sin servicios externos

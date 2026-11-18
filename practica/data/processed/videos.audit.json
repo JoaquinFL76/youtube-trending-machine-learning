@@ -1,0 +1,687 @@
+{
+  "regions": {
+    "CA": {
+      "input_rows": 40881,
+      "fallback_ids": {
+        "29": 74
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 6,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "e7ff7f574d1e3d685e5a9406cde3ed2aa0b83d8f07d6d989e03c36d815f430b3",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "DE": {
+      "input_rows": 40840,
+      "fallback_ids": {
+        "29": 256
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 3,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "d0685b5281a295bdb5cf114a278696a681c7feac1172ad523c31461beb1980ea",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "FR": {
+      "input_rows": 40724,
+      "fallback_ids": {
+        "29": 114
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 2,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "cd318029a4b6d4ddd5f8ec644a790587e4fe692317e4f4adc7be503de7fbbb17",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "GB": {
+      "input_rows": 38916,
+      "fallback_ids": {
+        "29": 90
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 0,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "5f5c100e150be2baaf7f9a3198a8216ce107b7e03e4572790c15e698d8e763cb",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "IN": {
+      "input_rows": 37352,
+      "fallback_ids": {
+        "29": 105
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 3,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "008313f3feb80dc94cbd3112437dfc9b4ab6a5c7bd5c892ab3c85e6582137b29",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "JP": {
+      "input_rows": 20523,
+      "fallback_ids": {
+        "29": 18
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 1,
+      "replacement_characters_introduced": 9,
+      "source_sha256": "3dcc8a7a40f979c4f9a2431eb0f1061853a29086866d81de4fc8c714e1d38cf2",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "KR": {
+      "input_rows": 34567,
+      "fallback_ids": {
+        "29": 288
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 0,
+      "replacement_characters_introduced": 66,
+      "source_sha256": "4567450dce9c3b489c7a949d1e10eaf70c999d58355f537374f8b0189580ce77",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "MX": {
+      "input_rows": 40451,
+      "fallback_ids": {
+        "29": 252
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 0,
+      "replacement_characters_introduced": 3,
+      "source_sha256": "9cf987c1a9594a84839f2888474454c849f211e075fde9eb41f49c8620ac5a04",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "RU": {
+      "input_rows": 40739,
+      "fallback_ids": {
+        "29": 1541
+      },
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 6,
+      "replacement_characters_introduced": 43,
+      "source_sha256": "9ae2cf47b6f2ae3b3f5c35c6d34b052f2134df9f9ed744e930ed9acac725d556",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    "US": {
+      "input_rows": 40949,
+      "fallback_ids": {},
+      "encoding": "utf-8",
+      "errors_policy": "replace sólo secuencias inválidas, sin reinterpretar texto válido",
+      "replacement_characters_in_source": 0,
+      "replacement_characters_introduced": 0,
+      "source_sha256": "09b4eb71295752705e472ebefeac9d2afab4177b7a818af795dea62744a48eb2",
+      "quality": {
+        "numeric": {
+          "views": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "likes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "dislikes": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          },
+          "comment_count": {
+            "missing_in_source": 0,
+            "not_numeric": 0,
+            "nonfinite": 0,
+            "negative": 0,
+            "fractional_retained": 0
+          }
+        },
+        "boolean": {
+          "comments_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "ratings_disabled": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          },
+          "video_error_or_removed": {
+            "missing_in_source": 0,
+            "unrecognized": 0
+          }
+        },
+        "dates": {
+          "publish_time": {
+            "missing_in_source": 0,
+            "invalid": 0
+          },
+          "trending_date": {
+            "missing_in_source": 0,
+            "invalid": 0
+          }
+        }
+      }
+    }
+  },
+  "fallback_policy": "JSON regional primero; consenso entre JSON restantes si falta; error si ambiguo",
+  "exact_duplicates_removed": 12570,
+  "missing_keys_removed": 0,
+  "invalid_identity_rows_removed": 2138,
+  "nonstandard_ids_retained": 7,
+  "identity_policy": "Excluir claves ausentes y marcadores de error; conservar otros IDs no estándar y auditarlos, sin inventar identidad compartida",
+  "videos_with_multiple_categories": 137,
+  "negative_exact_timestamp_delays": 18106,
+  "negative_calendar_day_delays": 0,
+  "date_policy": "trending_date sólo tiene día; un retraso entre -1 y 0 días no prueba una anomalía. No se usa trending_date como predictor. Negativos de calendario se conservan y auditan: no hay zona horaria regional suficiente para corregirlos.",
+  "output_rows": 361234,
+  "removed_exact_duplicates_or_missing_keys": 12570,
+  "removed_total_rows": 14708,
+  "output_sha256": "dee9e86c10ab4540de82b4beabf96ed886aed7eab9064907c890815e2c69c808",
+  "output_bytes": 533129333
+}

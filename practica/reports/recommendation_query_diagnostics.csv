@@ -1,0 +1,301 @@
+query_id,region,script,category,category_agreement_at_5_PROXY,random_category_expectation,returned,empty
+EinzsFG3nzU,CA,latin,Gaming,0.0,0.028166666666666666,5,False
+ubpvd_HI_F8,RU,cyrillic,Gaming,0.2,0.028166666666666666,5,False
+tBA9Md9JJD0,MX,latin,Science & Technology,0.0,0.016666666666666666,5,False
+FH2FBkXIAUI,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+TXmRAvjUlbY,FR,other,News & Politics,0.2,0.125,5,False
+Vp4tC611iJc,DE,latin,Howto & Style,0.2,0.0455,5,False
+P85a37YTsuU,US,latin,Sports,1.0,0.07866666666666666,5,False
+6n3L6GmeSrI,MX,latin,Howto & Style,0.4,0.0455,5,False
+j4V_3YIXdwc,FR,latin,People & Blogs,0.6,0.18816666666666668,5,False
+mthvvkwIlao,MX,latin,Autos & Vehicles,0.6,0.0195,5,False
+PFxwstG6yp4,KR,hangul,News & Politics,0.6,0.125,5,False
+ZGaw9-N3JB4,KR,hangul,People & Blogs,0.8,0.18816666666666668,5,False
+Kcai5_vRjFg,RU,cyrillic,Entertainment,0.2,0.28833333333333333,5,False
+DGFYeusTrKc,CA,latin,Travel & Events,0.6,0.004166666666666667,5,False
+6QQccFsafj4,RU,cyrillic,People & Blogs,0.0,0.18816666666666668,5,False
+nfcVmOlz_pU,RU,cyrillic,Entertainment,0.6,0.28833333333333333,5,False
+MIlCElgbCaQ,RU,cyrillic,Entertainment,0.6,0.28833333333333333,5,False
+rF3ZPE83K64,FR,latin,Music,0.6,0.058,5,False
+vozT1E5z6sw,MX,latin,Music,0.2,0.058,5,False
+Sbp8MmSc2kQ,US,latin,News & Politics,0.6,0.125,5,False
+HW5rdoqtTiQ,CA,latin,News & Politics,0.4,0.125,5,False
+s_aRbsFrTCQ,MX,latin,Entertainment,0.6,0.28833333333333333,5,False
+6h_AFHIhcvE,KR,mixed,Music,0.0,0.058,5,False
+e3cOEESMYrc,KR,hangul,Entertainment,0.2,0.28833333333333333,5,False
+2Fv9WfAJITU,DE,latin,Entertainment,0.6,0.28833333333333333,5,False
+LetIJEMFAFw,DE,latin,Entertainment,0.0,0.28833333333333333,5,False
+VdFfPoBkWJ4,FR,latin,Entertainment,0.6,0.28833333333333333,5,False
+41kp6qN1Crg,US,latin,Sports,0.6,0.07866666666666666,5,False
+lmb6w5luY_Q,GB,latin,Howto & Style,0.4,0.0455,5,False
+OGcX8hgWc3k,RU,cyrillic,Autos & Vehicles,0.8,0.0195,5,False
+Ja8sm19k0e0,CA,cyrillic,Entertainment,0.2,0.28833333333333333,5,False
+R2Ph78ctj6A,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+p7ze4R6RQHk,FR,other,Comedy,0.0,0.057166666666666664,5,False
+G9f0eHBm1cM,CA,latin,Entertainment,0.8,0.28833333333333333,5,False
+Vb7BZCU03xs,KR,hangul,News & Politics,0.2,0.125,5,False
+V_c-LatlAgA,FR,latin,Howto & Style,0.8,0.0455,5,False
+re1osyGxRR0,FR,latin,Sports,1.0,0.07866666666666666,5,False
+RUWfhS4j_TE,DE,cyrillic,People & Blogs,0.8,0.18816666666666668,5,False
+GgTy7OdY7rs,RU,cyrillic,News & Politics,0.6,0.125,5,False
+0m_cuVJu1Ig,CA,latin,Comedy,0.0,0.057166666666666664,5,False
+8qGCleYV4cw,CA,latin,Gaming,0.6,0.028166666666666666,5,False
+htmbDkAgA2Q,CA,latin,News & Politics,0.8,0.125,5,False
+hmpuBzi803c,KR,hangul,News & Politics,0.6,0.125,5,False
+hpKL7n8qklY,RU,cyrillic,Sports,0.2,0.07866666666666666,5,False
+w163YgsH1nI,RU,cyrillic,Sports,0.6,0.07866666666666666,5,False
+YxqsMdsaOVc,MX,latin,Music,0.2,0.058,5,False
+UYDAgS2Mr6M,CA,latin,Entertainment,0.6,0.28833333333333333,5,False
+LFG1ZP_OMPc,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+7KzKIx_tkeg,RU,cyrillic,Autos & Vehicles,0.0,0.0195,5,False
+kn4tt7k74g0,FR,latin,News & Politics,0.6,0.125,5,False
+sFSJ1t-MJHg,MX,latin,Entertainment,1.0,0.28833333333333333,5,False
+MXdXoQBVFmE,US,latin,News & Politics,0.0,0.125,5,False
+k8vn_4v438w,DE,latin,Film & Animation,0.2,0.04566666666666667,5,False
+ceZhHFrQNrI,JP,mixed,Entertainment,0.6,0.28833333333333333,5,False
+KWXvMicCzm0,GB,latin,Entertainment,0.6,0.28833333333333333,5,False
+nQjbEOQuF7Y,FR,latin,News & Politics,0.4,0.125,5,False
+kK1GU2vYV1s,IN,latin,Entertainment,0.2,0.28833333333333333,5,False
+wrSHl1Z04Ng,DE,latin,Sports,0.0,0.07866666666666666,5,False
+xWU9TJ1aSMY,DE,latin,Entertainment,0.2,0.28833333333333333,5,False
+_zTUG1rnNcs,MX,latin,Entertainment,0.6,0.28833333333333333,5,False
+7SOrt4kxayo,DE,latin,News & Politics,0.6,0.125,5,False
+EQypBXa57XQ,RU,cyrillic,Autos & Vehicles,0.0,0.0195,5,False
+LIs-okstf-w,DE,latin,Howto & Style,0.8,0.0455,5,False
+v9uCRLGGtB0,MX,latin,Sports,1.0,0.07866666666666666,5,False
+fiM4Akg2QqE,MX,latin,Entertainment,0.6,0.28833333333333333,5,False
+9e3Yeokru0M,CA,latin,News & Politics,1.0,0.125,5,False
+_6U5C0V7vwc,FR,latin,Education,0.0,0.018666666666666668,5,False
+GiUDQY43WBU,FR,latin,Music,0.8,0.058,5,False
+RCm5pxLxTnE,CA,latin,Sports,0.0,0.07866666666666666,5,False
+2E4OFaXFrmA,IN,other,News & Politics,1.0,0.125,5,False
+KVESaZUZmmw,FR,latin,Music,0.6,0.058,5,False
+kr-JeXaAZ-c,IN,latin,Howto & Style,0.6,0.0455,5,False
+nNQ42bCvn-8,DE,latin,News & Politics,0.0,0.125,5,False
+hrWNcf23VyU,MX,latin,People & Blogs,0.4,0.18816666666666668,5,False
+4gDqe6tpfPk,JP,mixed,Howto & Style,0.0,0.0455,5,False
+WLZO6MCXW04,MX,latin,People & Blogs,0.4,0.18816666666666668,5,False
+SSG5zfzzZ9k,CA,latin,Comedy,1.0,0.057166666666666664,5,False
+F1E-IGF8MPk,MX,latin,People & Blogs,0.4,0.18816666666666668,5,False
+rvtVtwWlsWc,MX,latin,Entertainment,0.2,0.28833333333333333,5,False
+jj5GiB51VRU,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+78k_ScTIJl0,MX,latin,Entertainment,0.8,0.28833333333333333,5,False
+NtjnbEYi9M8,MX,latin,Film & Animation,0.6,0.04566666666666667,5,False
+Z9Q9g_xvuwU,RU,latin,Nonprofits & Activism,0.2,0.009666666666666667,5,False
+4ZGhvuv5vv4,MX,latin,People & Blogs,0.6,0.18816666666666668,5,False
+r7FtF1NGGWw,IN,latin,News & Politics,1.0,0.125,5,False
+TAa_JGTN4Cc,MX,latin,People & Blogs,0.6,0.18816666666666668,5,False
+RCRVve3V1IY,US,latin,Pets & Animals,0.6,0.013333333333333334,5,False
+orcEeXhCcac,DE,latin,People & Blogs,1.0,0.18816666666666668,5,False
+Q71QvbsUDE4,FR,latin,Howto & Style,0.6,0.0455,5,False
+yAuGNv_w_Wk,KR,hangul,News & Politics,0.8,0.125,5,False
+B2Xjis5TDHQ,RU,cyrillic,Pets & Animals,0.0,0.013333333333333334,5,False
+iJVWV5_I40w,CA,latin,Science & Technology,0.4,0.016666666666666666,5,False
+ObGjSrclxL8,FR,other,Entertainment,0.6,0.28833333333333333,5,False
+dAVONkATo4A,FR,latin,Film & Animation,0.2,0.04566666666666667,5,False
+fiVhHhM1MUA,FR,latin,Entertainment,0.8,0.28833333333333333,5,False
+vLGAevUtZ7o,FR,latin,Comedy,1.0,0.057166666666666664,5,False
+9Ryn0ghI0Ng,JP,mixed,Sports,0.2,0.07866666666666666,5,False
+e_XgSU1X4Ms,MX,latin,People & Blogs,0.0,0.18816666666666668,5,False
+TBvehNahDc8,CA,latin,News & Politics,1.0,0.125,5,False
+80zhroCWG_Y,MX,latin,Science & Technology,0.0,0.016666666666666666,5,False
+h5ADJR21Jm0,RU,other,Entertainment,0.2,0.28833333333333333,5,False
+Yo0R1MT-xkw,DE,latin,Sports,0.2,0.07866666666666666,5,False
+jMsCz4JU8q0,IN,other,People & Blogs,0.0,0.18816666666666668,5,False
+84hhRtaO5sw,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+lBkj6eoSvTk,MX,latin,Entertainment,1.0,0.28833333333333333,5,False
+9PojY7p8nIk,RU,cyrillic,Gaming,0.4,0.028166666666666666,5,False
+ICAt0jSfsTE,FR,latin,Entertainment,0.0,0.28833333333333333,5,False
+Hd7jaBXlIwo,MX,latin,Science & Technology,0.2,0.016666666666666666,5,False
+eAUohjRlqZI,MX,latin,Pets & Animals,0.0,0.013333333333333334,5,False
+QccSuuqljTg,FR,latin,Entertainment,0.6,0.28833333333333333,5,False
+EEKEeUMSOAk,DE,latin,Entertainment,0.2,0.28833333333333333,5,False
+zAtP4_66bLk,DE,latin,Howto & Style,0.2,0.0455,5,False
+J7UX9Ove5qc,MX,latin,Sports,0.0,0.07866666666666666,5,False
+Y7b-OAjLduM,RU,latin,Education,0.0,0.018666666666666668,5,False
+-pOSRBAqUdM,GB,latin,Sports,0.4,0.07866666666666666,5,False
+g20SqOYR7Tg,MX,latin,News & Politics,0.0,0.125,5,False
+Zsnetmvl2-4,MX,latin,Comedy,0.2,0.057166666666666664,5,False
+IlkBLwl4aBM,CA,latin,Music,1.0,0.058,5,False
+MxDtkS-byNY,CA,latin,Entertainment,0.4,0.28833333333333333,5,False
+ejH6BHVYrsY,JP,mixed,Sports,0.2,0.07866666666666666,5,False
+vtonIUVsABQ,IN,latin,News & Politics,0.4,0.125,5,False
+Bm2hjrpDNBE,DE,latin,People & Blogs,0.4,0.18816666666666668,5,False
+oMeDBnB90x4,MX,latin,Nonprofits & Activism,0.2,0.009666666666666667,5,False
+n3p_dqiQV6g,CA,latin,Entertainment,1.0,0.28833333333333333,5,False
+k5f-MQb-ngE,IN,latin,Entertainment,0.8,0.28833333333333333,5,False
+JY0fCbXyxqM,IN,latin,Entertainment,1.0,0.28833333333333333,5,False
+dh4nEuhZBgg,CA,latin,Education,0.4,0.018666666666666668,5,False
+8MQ794B2TrY,FR,other,News & Politics,1.0,0.125,5,False
+aftJ9D3SPYE,IN,latin,People & Blogs,0.6,0.18816666666666668,5,False
+8PCdt9ML7P0,RU,cyrillic,Film & Animation,0.4,0.04566666666666667,5,False
+ZOZVgL_jnkI,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+woAkq7blCos,FR,latin,Gaming,0.2,0.028166666666666666,5,False
+BsRySGgQ-_Y,FR,latin,Music,0.0,0.058,5,False
+mRbvhHil2hI,IN,latin,Music,1.0,0.058,5,False
+BZYO7NDf-0Y,KR,mixed,Entertainment,0.4,0.28833333333333333,5,False
+Neq4t4gSgW4,MX,latin,People & Blogs,0.2,0.18816666666666668,5,False
+VKjbrcyhknc,IN,latin,Comedy,0.6,0.057166666666666664,5,False
+P9xX04S0I1o,MX,latin,Music,0.6,0.058,5,False
+fE2037WDu3g,RU,cyrillic,Sports,0.2,0.07866666666666666,5,False
+9G8axAonl7k,DE,latin,Entertainment,0.0,0.28833333333333333,5,False
+2vYpVEnonQU,FR,latin,Music,0.0,0.058,5,False
+6v3_7Oi5K5s,DE,latin,Entertainment,0.6,0.28833333333333333,5,False
+6OYFuzz9iY0,CA,latin,News & Politics,1.0,0.125,5,False
+3fO4kpZ1GSk,FR,latin,Comedy,0.0,0.057166666666666664,5,False
+1xsGIpigbrA,KR,hangul,News & Politics,0.8,0.125,5,False
+vuhzVz7RRTc,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+y_RCM37Ba7w,RU,latin,Autos & Vehicles,0.0,0.0195,5,False
+1KG4499DCdY,RU,mixed,Gaming,0.2,0.028166666666666666,5,False
+1WqPw-Ng8SM,MX,latin,Howto & Style,0.6,0.0455,5,False
+HGP_uV-rv_I,FR,other,News & Politics,0.2,0.125,5,False
+hiO7bZqsmrA,MX,latin,Entertainment,0.2,0.28833333333333333,5,False
+T_0c152wNkk,RU,cyrillic,People & Blogs,0.2,0.18816666666666668,5,False
+9oUhrJlNqoA,MX,latin,News & Politics,0.0,0.125,5,False
+Ae7rZuR9oBw,CA,latin,Sports,0.4,0.07866666666666666,5,False
+sNu-sT2OF7Q,CA,latin,Entertainment,0.4,0.28833333333333333,5,False
+5d32djI5s_U,FR,latin,People & Blogs,0.6,0.18816666666666668,5,False
+azcXcIQWucc,FR,latin,People & Blogs,0.6,0.18816666666666668,5,False
+GMhnzyZUXko,FR,latin,Sports,0.4,0.07866666666666666,5,False
+xYqNzJplPRs,DE,other,News & Politics,0.8,0.125,5,False
+pZ8biiiHvO0,FR,latin,People & Blogs,0.2,0.18816666666666668,5,False
+E8fDOumEaXI,DE,latin,People & Blogs,0.2,0.18816666666666668,5,False
+j2Wjn-Zlixs,JP,mixed,Howto & Style,0.0,0.0455,5,False
+xtEv6byI3WA,FR,latin,People & Blogs,0.4,0.18816666666666668,5,False
+8s2WA5msj_k,RU,cyrillic,Comedy,0.6,0.057166666666666664,5,False
+_3R4I2U6zbw,RU,cyrillic,Sports,0.4,0.07866666666666666,5,False
+5RmZXf97Inc,DE,latin,Howto & Style,0.8,0.0455,5,False
+feuetv-nU7M,CA,latin,Entertainment,0.2,0.28833333333333333,5,False
+g_1ETulxJMY,CA,latin,Sports,0.6,0.07866666666666666,5,False
+kL2YLT6jJ_8,FR,latin,Entertainment,1.0,0.28833333333333333,5,False
+fdQJP_W0fS8,DE,latin,News & Politics,0.4,0.125,5,False
+L2lmfwLY720,DE,latin,News & Politics,0.2,0.125,5,False
+2feVs8F8LU8,MX,latin,People & Blogs,0.4,0.18816666666666668,5,False
+mHxRUv8cO2I,DE,latin,Gaming,0.6,0.028166666666666666,5,False
+hPLkz2Jd_Wg,DE,latin,Entertainment,0.4,0.28833333333333333,5,False
+Kz7xANI-J1A,KR,hangul,News & Politics,0.6,0.125,5,False
+3fRrf4Fh2A4,DE,latin,People & Blogs,0.6,0.18816666666666668,5,False
+yCFtjQJKC4k,RU,cyrillic,News & Politics,0.8,0.125,5,False
+X9ynFG_bWVo,FR,latin,Sports,0.4,0.07866666666666666,5,False
+3PV1qjwamcA,FR,latin,Entertainment,0.8,0.28833333333333333,5,False
+NrY0quJNi1g,CA,latin,News & Politics,1.0,0.125,5,False
+NMKC05AnrHc,MX,latin,Howto & Style,0.4,0.0455,5,False
+PzNPk8iksls,CA,latin,People & Blogs,0.8,0.18816666666666668,5,False
+iYpmmjledhw,FR,latin,Film & Animation,0.2,0.04566666666666667,5,False
+FskO_CKD9Yc,KR,hangul,Music,0.0,0.058,5,False
+FH2QsiBixe4,FR,latin,Music,0.6,0.058,5,False
+OLoXDxNKUhg,DE,latin,Howto & Style,0.6,0.0455,5,False
+Q0hEOLm6Wrs,GB,latin,Howto & Style,0.6,0.0455,5,False
+vscM5fl5BQM,JP,latin,Music,0.4,0.058,5,False
+quXt3MBO3YY,FR,latin,News & Politics,0.2,0.125,5,False
+Je5roEm4knA,DE,latin,News & Politics,0.2,0.125,5,False
+r-1yjIoWxBA,CA,latin,Sports,0.2,0.07866666666666666,5,False
+5fm5mI8PzoM,RU,cyrillic,Gaming,0.8,0.028166666666666666,5,False
+b30NoSmJa6U,MX,latin,Film & Animation,0.0,0.04566666666666667,5,False
+p-qRaIPQUZk,DE,latin,Entertainment,1.0,0.28833333333333333,5,False
+aCLgXLzwwk8,IN,latin,Entertainment,0.6,0.28833333333333333,5,False
+GsaaC3IkWu4,IN,latin,Entertainment,1.0,0.28833333333333333,5,False
+MNupe3gmJYY,JP,hiragana,Music,0.2,0.058,5,False
+U9c15cZ6qug,DE,cyrillic,News & Politics,0.2,0.125,5,False
+0e3XJgk13E0,DE,latin,Entertainment,1.0,0.28833333333333333,5,False
+GoJA8kpeIq8,CA,latin,Entertainment,0.8,0.28833333333333333,5,False
+pYp0Al5XQGw,CA,cjk,Entertainment,0.8,0.28833333333333333,5,False
+iFs-LPrxkdw,KR,hangul,News & Politics,0.6,0.125,5,False
+WrlMCafiwZQ,FR,latin,News & Politics,0.6,0.125,5,False
+EJDxfJFA7Oc,IN,latin,Comedy,0.6,0.057166666666666664,5,False
+7EvI6dV7sW8,JP,mixed,Pets & Animals,0.2,0.013333333333333334,5,False
+0eV-dMmTXD8,IN,latin,Shows,0.0,0.0031666666666666666,5,False
+U9QywNgQpPM,KR,hangul,People & Blogs,0.4,0.18816666666666668,5,False
+dhRsXGGsiT8,MX,latin,News & Politics,1.0,0.125,5,False
+YRJq9Ud44Us,RU,cyrillic,News & Politics,0.2,0.125,5,False
+SKiFdfRnJWA,CA,latin,News & Politics,0.4,0.125,5,False
+LHnatBi7-9g,CA,latin,People & Blogs,0.0,0.18816666666666668,5,False
+orQECtsFJRQ,IN,latin,Entertainment,0.8,0.28833333333333333,5,False
+QedrU4cp_SU,KR,hangul,News & Politics,0.8,0.125,5,False
+_5sH7FYhi9o,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+13REziXfObQ,RU,cyrillic,Entertainment,0.0,0.28833333333333333,5,False
+UsS7CR7FUos,DE,latin,Entertainment,0.6,0.28833333333333333,5,False
+XzZliCbTrhs,KR,hangul,People & Blogs,0.4,0.18816666666666668,5,False
+DXkq5V9FOLE,JP,mixed,Education,0.0,0.018666666666666668,5,False
+V5O0LqxvTYg,JP,mixed,Entertainment,0.6,0.28833333333333333,5,False
+zvuv1KtV0As,FR,latin,News & Politics,0.4,0.125,5,False
+GwncXRkmut8,CA,latin,Entertainment,0.6,0.28833333333333333,5,False
+UzD7YmY1MKk,RU,mixed,People & Blogs,0.0,0.18816666666666668,5,False
+q11b_hDSc_Q,RU,cyrillic,Autos & Vehicles,0.8,0.0195,5,False
+mCoP4PjFZ8I,CA,latin,People & Blogs,0.2,0.18816666666666668,5,False
+LjlpQtKGoKw,MX,latin,People & Blogs,0.4,0.18816666666666668,5,False
+AF8LnSbh83Q,MX,latin,Sports,0.8,0.07866666666666666,5,False
+mNXuqlCNnYc,CA,latin,News & Politics,0.4,0.125,5,False
+XILdbzYvs24,FR,latin,Sports,0.6,0.07866666666666666,5,False
+ECQHeSUEkXY,FR,latin,People & Blogs,0.4,0.18816666666666668,5,False
+KODA1g41d5M,DE,latin,People & Blogs,0.4,0.18816666666666668,5,False
+2fl23dU2MLI,FR,latin,Comedy,1.0,0.057166666666666664,5,False
+nD44WULjUYM,IN,latin,Music,1.0,0.058,5,False
+7IUvLemOGGU,DE,latin,Entertainment,0.2,0.28833333333333333,5,False
+sX4ybNrQBNM,RU,cyrillic,Comedy,1.0,0.057166666666666664,5,False
+XQkZ4Swk4vI,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+Sn0Qgz13Ejw,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+2lLQM7ljFjg,MX,latin,Gaming,0.8,0.028166666666666666,5,False
+e893wzxR4E0,RU,cyrillic,Entertainment,0.6,0.28833333333333333,5,False
+KlP62pjv7NM,IN,latin,Film & Animation,0.0,0.04566666666666667,5,False
+LMSr3pb0_Dw,MX,latin,People & Blogs,0.2,0.18816666666666668,5,False
+oIFl-JITJIg,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+fF1_LYBeYas,DE,latin,Entertainment,0.6,0.28833333333333333,5,False
+cmNimm8z3_U,MX,latin,People & Blogs,0.8,0.18816666666666668,5,False
+o-0BhmmTHug,MX,latin,Film & Animation,0.0,0.04566666666666667,5,False
+RM3ZYvfoDpc,CA,cjk,People & Blogs,0.0,0.18816666666666668,0,True
+O8U1hdM_5yM,MX,latin,Entertainment,0.8,0.28833333333333333,5,False
+IgMMfRla3OE,JP,mixed,Entertainment,0.4,0.28833333333333333,5,False
+1BThwqZtHSk,CA,latin,People & Blogs,0.4,0.18816666666666668,5,False
+2zNB3CotyxM,DE,latin,Entertainment,0.4,0.28833333333333333,5,False
+TN__JFR4Pd0,MX,latin,Music,0.0,0.058,5,False
+eyrqRCdcYcA,RU,cyrillic,People & Blogs,0.6,0.18816666666666668,5,False
+9O3X1RdTr_8,DE,cyrillic,Comedy,1.0,0.057166666666666664,5,False
+zLgp202c64w,MX,latin,Sports,0.0,0.07866666666666666,5,False
+hDqhUjCnfsw,CA,latin,People & Blogs,0.6,0.18816666666666668,5,False
+tmBLJ7Noa40,FR,latin,Gaming,0.0,0.028166666666666666,5,False
+mjqQT9ZS4aw,JP,cjk,Film & Animation,0.0,0.04566666666666667,5,False
+wKLYmkZ6B8Q,MX,latin,Entertainment,0.4,0.28833333333333333,5,False
+UmHZWORKl30,FR,latin,Sports,0.4,0.07866666666666666,5,False
+FrAEVV4zQQc,RU,cyrillic,People & Blogs,0.8,0.18816666666666668,5,False
+hv3jeGUv9fY,US,latin,Science & Technology,0.2,0.016666666666666666,5,False
+dSMS1T_h3mM,IN,latin,News & Politics,0.6,0.125,5,False
+oe80HnixucQ,KR,hangul,Entertainment,0.4,0.28833333333333333,5,False
+Bayt7uQith4,DE,latin,Comedy,0.2,0.057166666666666664,5,False
+jLaf9d_4RwM,DE,latin,Entertainment,0.8,0.28833333333333333,5,False
+uA4cSPgs_Ps,IN,other,News & Politics,1.0,0.125,5,False
+ddpFVOAnM1g,RU,cyrillic,Science & Technology,0.2,0.016666666666666666,5,False
+AwyC9WOcqo4,RU,cyrillic,Howto & Style,0.8,0.0455,5,False
+fJ8ueA7Npxg,RU,cyrillic,Film & Animation,0.4,0.04566666666666667,5,False
+B71Grg8p1yE,FR,other,People & Blogs,0.8,0.18816666666666668,5,False
+AiyZ92_JZxA,GB,latin,Entertainment,0.0,0.28833333333333333,5,False
+ey86GuF8Qlc,DE,latin,Film & Animation,0.2,0.04566666666666667,5,False
+5iVU-rTo7Y0,FR,latin,People & Blogs,0.0,0.18816666666666668,5,False
+G2GdZsClQvI,JP,hiragana,Entertainment,0.2,0.28833333333333333,5,False
+BRi9oXmsKGE,RU,cyrillic,Sports,0.2,0.07866666666666666,5,False
+0XDVzshzfBE,JP,katakana,People & Blogs,0.4,0.18816666666666668,5,False
+wNqYB2-AIbY,RU,cyrillic,Comedy,0.6,0.057166666666666664,5,False
+hcSE1DfE3i0,JP,mixed,People & Blogs,0.2,0.18816666666666668,5,False
+ChARXYSF1RI,DE,latin,People & Blogs,0.4,0.18816666666666668,5,False
+5lHprBupBXU,KR,hangul,Entertainment,0.4,0.28833333333333333,5,False
+z6-JsoinUJ4,JP,mixed,Music,0.0,0.058,5,False
+MbIGeBoSv4g,RU,latin,Gaming,0.4,0.028166666666666666,5,False
+j2LTY2UArsQ,DE,latin,Entertainment,0.8,0.28833333333333333,5,False
+pkFzveUWucg,FR,latin,Sports,1.0,0.07866666666666666,5,False
+y1VuANrDxp8,MX,latin,Music,0.0,0.058,5,False
+HjsN2IUwbPM,MX,latin,News & Politics,0.8,0.125,5,False
+eOq0L8yfTTc,FR,latin,Sports,0.8,0.07866666666666666,5,False
+8e-H4sEHB54,CA,latin,Gaming,0.2,0.028166666666666666,5,False
+-9_NI0fn9Cs,CA,latin,Entertainment,0.6,0.28833333333333333,5,False
+w970XKmkw_I,RU,cyrillic,Comedy,0.0,0.057166666666666664,5,False
+GC8M47F7Plg,MX,latin,People & Blogs,0.6,0.18816666666666668,5,False
+gzmlJ0GpfmI,FR,latin,Entertainment,0.2,0.28833333333333333,5,False
+0412YyjGoYQ,MX,latin,Music,0.4,0.058,5,False
+Q8Dlu336Yk8,FR,latin,Autos & Vehicles,0.0,0.0195,5,False
+QK_93PDUd3w,FR,latin,Film & Animation,0.6,0.04566666666666667,5,False
+hqv0FXAIPZk,CA,latin,Entertainment,0.0,0.28833333333333333,5,False
+tBVlCSWH4Eo,CA,latin,Howto & Style,0.8,0.0455,5,False
+UXNnAB3ugPU,US,latin,Howto & Style,0.4,0.0455,5,False
+6j7JpatGE6g,RU,cyrillic,Entertainment,0.6,0.28833333333333333,5,False
+1qKBNKtzTWg,US,latin,Entertainment,0.2,0.28833333333333333,5,False
+jUKALEfh3qE,JP,cjk,Sports,0.0,0.07866666666666666,5,False

@@ -1,0 +1,21 @@
+# Entornos y archivos generados localmente
+.venv/
+.conda-ml/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.env
+.env.*
+*.log
+dataset.zip
+youtube-new.zip
+practica/data/raw/
+practica/data/processed/videos.csv
+historial_tecnico/
+material_estudio/
+entrega_academica/
+entrega_practica_ml.zip
+Thumbs.db
+Desktop.ini

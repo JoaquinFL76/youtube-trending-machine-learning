@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "executed_utc": "2026-11-14T10:17:52.226382+00:00",
+  "notebook_code_cells": 19,
+  "notebook_errors": 0,
+  "sequential_counts": true,
+  "models": {
+    "category": {
+      "pickle_bytes": 1498225,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "category"
+    },
+    "comments_disabled": {
+      "pickle_bytes": 774063,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "comments_disabled"
+    },
+    "ratings_disabled": {
+      "pickle_bytes": 384315,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "ratings_disabled"
+    },
+    "likes": {
+      "pickle_bytes": 845143,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "likes"
+    },
+    "ratio": {
+      "pickle_bytes": 384482,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "ratio"
+    },
+    "cluster": {
+      "pickle_bytes": 1318001,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "cluster"
+    },
+    "recommend": {
+      "pickle_bytes": 44939189,
+      "single_batch_numpy_cli": "passed",
+      "manifest_task": "recommend"
+    }
+  },
+  "wrong_task_rejected": true,
+  "weights_unchanged": true,
+  "expanded_calibration": true,
+  "base_training_evidence": {
+    "fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+    "calibration_fingerprint": "a2a97d2842fc1326c01dd976bef58aa5285faadb9788b562bee9b00db98053bd",
+    "complete": true
+  }
+}

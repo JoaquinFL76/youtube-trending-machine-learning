@@ -1,0 +1,24 @@
+{
+  "format": 2,
+  "task": "comments_disabled",
+  "class": "SVMCommentsClassifier",
+  "created_utc": "2026-11-08T08:38:58.705201+00:00",
+  "python": "3.12.14",
+  "sklearn": "1.9.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "schema": [
+    "title",
+    "publish_time",
+    "tags",
+    "description",
+    "region"
+  ],
+  "training": {
+    "fingerprint": "a7097b3509fc1dfcce8dbe3d1efba435f98f15fb88229db90c07cce99da0cd70",
+    "selected": "svm",
+    "fit_rows": 29926,
+    "mode": "fixed_winners_only",
+    "calibration_fingerprint": "a2a97d2842fc1326c01dd976bef58aa5285faadb9788b562bee9b00db98053bd"
+  }
+}

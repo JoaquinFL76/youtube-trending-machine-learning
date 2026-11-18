@@ -1,0 +1,271 @@
+class,feature,coefficient
+Autos & Vehicles,text__bmw,3.3220833765107436
+Autos & Vehicles,text__audi,2.6714669179102937
+Autos & Vehicles,text__авто,2.304103497751503
+Autos & Vehicles,text__car,2.2655231814291366
+Autos & Vehicles,text__oubliez,2.151845381988578
+Autos & Vehicles,text__nмоя,-2.133332058173778
+Autos & Vehicles,text__tesla,2.0970933233640574
+Autos & Vehicles,text__twitter,-2.062308685804515
+Autos & Vehicles,text__crash,2.0227547807178987
+Autos & Vehicles,text__road,2.0216595905057146
+Autos & Vehicles,text__tower,1.9541244431878917
+Autos & Vehicles,text__autos,1.9381917727780171
+Autos & Vehicles,text__diesel,1.911812154021121
+Autos & Vehicles,text__moto,1.8986887447180298
+Autos & Vehicles,text__test,1.8896967573404129
+Comedy,text__humour,2.661101162079924
+Comedy,text__comedy,2.5724715124816417
+Comedy,text__editor,2.424912594311084
+Comedy,text__comedia,2.4116580506561025
+Comedy,text__parodie,2.265281262021779
+Comedy,text__шарий,2.2550266422854595
+Comedy,text__квн,2.2368527931342608
+Comedy,text__sketch,2.1994820172123624
+Comedy,text__meurice,2.1854935096999575
+Comedy,text__hart,2.1547174435589427
+Comedy,text__квартал,1.9000856392198955
+Comedy,text__прикол,1.8890461777210155
+Comedy,text__coub,1.8887106404019678
+Comedy,text__humor,1.8711322987867247
+Comedy,text__parody,1.8649506329262655
+Education,text__god,2.555920650795951
+Education,text__discussion,2.5265981903287913
+Education,text__poissonfecond,2.307181427508055
+Education,text__lernen,2.1374513312496535
+Education,text__min,2.0533143519363533
+Education,text__tomscott,2.0405863716063397
+Education,text__sbi,2.031222483079662
+Education,text__второй,1.9030569010987886
+Education,text__nline,1.7253241259676806
+Education,text__인스타,1.7086162183626512
+Education,text__enemigo,1.5829605680400065
+Education,text__gratuit,1.5748212210804196
+Education,text__php,1.5694527851300706
+Education,text__деньги,1.5669140548795046
+Education,text__patreon,1.5664525299031176
+Entertainment,text__entertainment,2.1524988061237846
+Entertainment,text__trailers,-1.7315045074424376
+Entertainment,text__ncast,1.708998117167941
+Entertainment,text__photos,1.6730270182625484
+Entertainment,text__nerdwriter,1.6708188493547664
+Entertainment,text__react,1.6596129887523277
+Entertainment,text__ad,1.625756211439113
+Entertainment,text__nrj,1.6135438510544073
+Entertainment,text__celebrity,1.6068623206717938
+Entertainment,text__gossip,1.553247453061602
+Entertainment,text__zap,1.5256313595942712
+Entertainment,text__뽑기,1.4901457311386004
+Entertainment,text__stars,1.4884631482812574
+Entertainment,text__ep,1.4864969071441938
+Entertainment,text__fletcher,1.4838268282619194
+Film & Animation,text__예고편,2.9029711888483334
+Film & Animation,text__animation,2.707772471996015
+Film & Animation,text__kliemannsland,2.6055432059563355
+Film & Animation,text__premium,2.2872007727319312
+Film & Animation,text__cinéma,2.2520968431030686
+Film & Animation,text__歡迎訂閱,2.2141692190534994
+Film & Animation,text__bolum,2.169436373176237
+Film & Animation,text__серия,2.162603210911442
+Film & Animation,text__sayfası,2.0780291222025786
+Film & Animation,text__film,2.0510636272563465
+Film & Animation,text__samhini,2.0345806833198363
+Film & Animation,text__anime,1.9341384627531952
+Film & Animation,text__affet,1.788858919974824
+Film & Animation,text__izle,1.7810588854381468
+Film & Animation,text__news,-1.7761013601078182
+Gaming,text__minecraft,3.3826249776095656
+Gaming,text__gameplay,3.274415333452583
+Gaming,text__gaming,2.6261766400538655
+Gaming,text__game,2.56580334279033
+Gaming,text__twitch,2.560102304829682
+Gaming,text__fifa,2.421295370512254
+Gaming,text__taiwan,2.1054157857732987
+Gaming,text__라이더,1.9719391396963466
+Gaming,text__naver,1.9451924049940688
+Gaming,text__sims,1.9371849939753525
+Gaming,text__greatest,1.9244235667133716
+Gaming,text__fortnite,1.8473249797718454
+Gaming,text__extended,1.8255976091746728
+Gaming,text__게임,1.771596685212253
+Gaming,text__play,1.765777680634607
+Howto & Style,text__yoga,2.4093660411077304
+Howto & Style,text__recipe,2.1526072865371697
+Howto & Style,text__платье,2.0896194054368036
+Howto & Style,text__diy,2.0399746263135308
+Howto & Style,text__pinterest,1.949327477218629
+Howto & Style,text__visita,1.9453845229051012
+Howto & Style,text__있어요,1.8906627892853232
+Howto & Style,text__shopping,1.8880080324776471
+Howto & Style,text__pencil,1.8161477382203535
+Howto & Style,text__rezepte,1.8121981080369636
+Howto & Style,text__quiero,1.786312043810037
+Howto & Style,text__lifestyle,1.7829265732129416
+Howto & Style,text__deko,1.7750267439158676
+Howto & Style,text__trucos,1.7685335797054655
+Howto & Style,text__haul,1.7063112748847868
+Movies,text__leader,1.3122360631604646
+Movies,text__film,1.013831195336015
+Movies,text__thriller,0.9295973914207921
+Movies,text__francais,0.8557901307101262
+Movies,text__fait,0.7369972175386696
+Movies,text__kannada,0.6943297614626627
+Movies,text__kumar,0.67686085285015
+Movies,text__songs,0.6706493909506751
+Movies,text__complet,0.6484375865380125
+Movies,text__veer,0.6287946060696327
+Movies,text__français,0.5920745069854
+Movies,text__cinema,0.5658859459441459
+Movies,text__qui,0.5156582951560761
+Movies,text__vijay,0.5151939583802868
+Movies,text__divomovies,0.4716117208976385
+Music,text__lnk,3.1596729160810213
+Music,text__album,2.410355745793491
+Music,text__lyrics,2.4081170542831365
+Music,text__music,2.2955693891625493
+Music,text__records,2.289184588964718
+Music,text__bangtan,1.9238227722582748
+Music,text__vevo,1.7854347816619645
+Music,text__songs,1.772234175436555
+Music,text__차트,1.7097087263447577
+Music,text__pop,1.6892927433931493
+Music,text__музыка,1.6608476431347488
+Music,text__nardwuar,1.628589576377446
+Music,text__cover,1.588304103606147
+Music,text__mixtape,1.5283189645859745
+Music,text__саша,1.5245772473820456
+News & Politics,text__noticias,2.8754367949929875
+News & Politics,text__amlo,2.3892976582110483
+News & Politics,text__nachrichten,2.3105890242218505
+News & Politics,text__политика,2.270739965621935
+News & Politics,text__mb,2.1467016632873137
+News & Politics,text__nподдержать,2.043238887632692
+News & Politics,text__올림픽,-2.0205822031391962
+News & Politics,text__자유한국당,2.01843371099243
+News & Politics,text__politics,1.987657166381415
+News & Politics,text__bone,1.978166745612836
+News & Politics,text__instagram,-1.917658741707296
+News & Politics,text__actualité,1.916184968032
+News & Politics,text__prime,1.9117662695762003
+News & Politics,text__funny,-1.8418261267814258
+News & Politics,text__евгений,-1.7940655052718024
+Nonprofits & Activism,text__navalny,3.3419512981818538
+Nonprofits & Activism,text__atv,2.9616573299526037
+Nonprofits & Activism,text__один,2.4703433877477825
+Nonprofits & Activism,text__제가,2.4357987001714325
+Nonprofits & Activism,text__нашем,2.398419154341374
+Nonprofits & Activism,text__jp,2.385903428857063
+Nonprofits & Activism,text__таро,2.1990623516463295
+Nonprofits & Activism,text__됩니다,2.1534258671289455
+Nonprofits & Activism,text__공개,2.085558880476588
+Nonprofits & Activism,text__합니다,-2.0518123257069174
+Nonprofits & Activism,text__сын,2.0194486930483175
+Nonprofits & Activism,text__nне,1.9908688854684562
+Nonprofits & Activism,text__suscribete,1.990133793136457
+Nonprofits & Activism,text__ytn,1.9603158726114602
+Nonprofits & Activism,text__алексея,1.8788001610512217
+People & Blogs,text__jeremstar,2.2131125327031107
+People & Blogs,text__shin,1.979074076946711
+People & Blogs,text__nмоя,1.9409856956600662
+People & Blogs,text__보러가기,1.8812584311831315
+People & Blogs,text__прогноз,1.8560039038392853
+People & Blogs,text__гадание,1.7740779445858057
+People & Blogs,text__w9,1.6858221164473899
+People & Blogs,text__http,-1.584562067937572
+People & Blogs,text__çin,1.5651310930386881
+People & Blogs,text__마루에몽,1.559775272398304
+People & Blogs,text__yeah,1.545337270806702
+People & Blogs,text__bee,1.5365131034239514
+People & Blogs,text__سامحيني,1.535184556178434
+People & Blogs,text__mb,-1.5177832308180836
+People & Blogs,text__n_______________,1.516041994116096
+Pets & Animals,text__cat,3.553270085908137
+Pets & Animals,text__aquarium,3.010501675831688
+Pets & Animals,text__dog,2.736713491413263
+Pets & Animals,text__животные,2.5932856068209587
+Pets & Animals,text__panda,2.5479482970521796
+Pets & Animals,text__ist,2.480958141210372
+Pets & Animals,text__animal,2.391510450759265
+Pets & Animals,text__강아지,2.1767268517194007
+Pets & Animals,text__entry,2.0981863115005828
+Pets & Animals,text__эти,1.9104917881841994
+Pets & Animals,text__чем,1.8639120850102826
+Pets & Animals,text__69,1.8074063236170403
+Pets & Animals,text__рублей,1.7545306460781402
+Pets & Animals,text__nach,1.7419847675103404
+Pets & Animals,text__нового,1.7246814428300605
+Science & Technology,text__science,2.808782341110929
+Science & Technology,text__tiempo,2.7925838097487663
+Science & Technology,text__nasa,2.566914695631002
+Science & Technology,text__tech,2.2692110916699737
+Science & Technology,text__alien,2.1498272359740227
+Science & Technology,text__apple,2.118720388288014
+Science & Technology,text__engine,1.9342368664874772
+Science & Technology,text__global,1.9306483032397634
+Science & Technology,text__technology,1.8477149118763498
+Science & Technology,text__smartphone,1.8424172627477757
+Science & Technology,text__yu,1.805819211359094
+Science & Technology,text__lite,1.6767293050024117
+Science & Technology,text__volcano,1.6412173835905723
+Science & Technology,text__vol,1.6282138252660423
+Science & Technology,text__ли,1.6184653916470206
+Shows,text__채널,1.9223662255578997
+Shows,text__방송,1.8995356717645826
+Shows,text__deivamagal,1.8295816634632043
+Shows,text__20,1.7279788377141811
+Shows,text__우리,1.5922901659835011
+Shows,text__выпуск,1.577146326013738
+Shows,text__семья,1.570449296009449
+Shows,text__매주,1.5634938457043097
+Shows,text__홈페이지,1.4748181838796923
+Shows,text__episode,1.460859930971919
+Shows,text__여자,1.4591527112984302
+Shows,text__december,1.4489637496739147
+Shows,text__новая,1.4451628833582448
+Shows,text__남자,1.3981975581800108
+Shows,text__priyamanaval,1.3868937527704461
+Sports,text__fitness,3.0924780345118927
+Sports,text__nba,3.031154414199074
+Sports,text__football,2.8022473563284964
+Sports,text__nhl,2.1594038327881937
+Sports,text__soccer,2.1577144022513592
+Sports,text__футбол,2.156099375587328
+Sports,text__sport,2.0841198040030093
+Sports,text__borussia,2.0533765700275004
+Sports,text__ufc,2.031647086957536
+Sports,text__league,1.988973796432046
+Sports,text__хабиб,1.9267306613898711
+Sports,text__américa,1.9052903720396825
+Sports,text__hockey,1.8680092470365615
+Sports,text__bundesliga,1.8535649018495026
+Sports,text__sports,1.7713270641652419
+Trailers,text__ganz,0.7948318221097004
+Trailers,text__dame,0.590763073696941
+Trailers,text__gmbh,0.5145149725811107
+Trailers,text__sandra,0.5081213015799377
+Trailers,text__motivation,0.5026603639493961
+Trailers,text__große,0.47569034797555676
+Trailers,text__anderen,0.44794595850771146
+Trailers,text__die,0.4389775801801531
+Trailers,text__ist,0.4162046695097122
+Trailers,text__denn,0.41398584600889204
+Trailers,text__mit,0.41030784092967737
+Trailers,text__doch,0.4100420404608788
+Trailers,text__vom,0.40802385062793095
+Trailers,text__max,0.39252152420066905
+Trailers,text__hat,0.3853324427898091
+Travel & Events,text__решка,2.559196009444093
+Travel & Events,text__التي,1.9918207871198284
+Travel & Events,text__twitter,1.6666460420626918
+Travel & Events,text__ancient,1.656366894458557
+Travel & Events,text__cuisine,1.5818380687992415
+Travel & Events,text__audio,1.5726041673664906
+Travel & Events,text__management,1.4561539249577464
+Travel & Events,text__food,1.445795254188306
+Travel & Events,text__sebastian,1.416877433659258
+Travel & Events,text__user,1.4088000561186849
+Travel & Events,text__купить,1.3733484873613608
+Travel & Events,text__yahoo,1.3714999181594452
+Travel & Events,text__lost,1.3544936940480647
+Travel & Events,text__мир,1.354338261011364
+Travel & Events,text__airlines,1.319226141690307
